@@ -2,6 +2,6 @@
 title: Document Center
 ---
 
-ciao a tutti
+Test
 
 [test](/test)
