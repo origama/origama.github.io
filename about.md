@@ -1,14 +1,15 @@
 ---
 layout: page
 title: About
-class: 'post'
-navigation: True
-logo: 'assets/images/ghost.png'
-current: about
+permalink: /about/
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+Some information about you!
 
-We use this for testing and for reference!
+### More Information
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+A place to include any other types of information that you'd like to include about yourself.
+
+### Contact me
+
+[email@domain.com](mailto:email@domain.com)
